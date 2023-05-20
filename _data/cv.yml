@@ -1,5 +1,5 @@
 - title: Education
-  type: time_table 
+  type: time_table
   contents:
     - title: PhD in Economics
       institution: Bocconi University, Milan, Italy
@@ -79,6 +79,8 @@
         - Health Economics
         - Development Economics
 
-- title: Other Interests
+- title: Skills and Interests
   type: list
-  contents: Basketball, Surfing, Snowboarding, Hiking, Biology, Chess.
+  contents: <u>Computer languagues:</u> Stata, R, Python, QGIS, Matlab, LaTeX, CSS, Qualtrics.
+  type: list
+  contents: <u>Hobbies:</u> Basketball, Surfing, Snowboarding, Hiking, Biology, Chess.
