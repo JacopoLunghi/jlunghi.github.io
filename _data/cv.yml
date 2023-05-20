@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Jacopo Lunghi
-    - name: Date of Birth
-      value: 17th February 1995
-    - name: Languages
-      value: Italian, English, French, Spanish
-
 - title: Education
   type: time_table
   contents:
