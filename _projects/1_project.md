@@ -63,7 +63,7 @@ However, it has also made clear the extent to which agriculture and livestock ar
 ### Project output
 ---
 
-# Final Meeting
-Follow the conference here:
+<strong>Final Meeting<strong>
+Follow the presentation of research outcome:
 
 {% twitter https://twitter.com/CmccClimate/status/1663169305175810048 %}
