@@ -65,6 +65,6 @@ However, it has also made clear the extent to which agriculture and livestock ar
 
 <strong>Final Meeting <strong>
 
-Follow the presentation of research outcome:
+Follow the presentation of our research outcomes:
 
 {% twitter https://twitter.com/CmccClimate/status/1663169305175810048 %}
