@@ -62,4 +62,8 @@ However, it has also made clear the extent to which agriculture and livestock ar
 
 ### Project output
 ---
-Available soon
+
+# Final Meeting
+Follow the conference here:
+
+{% twitter https://twitter.com/rubygems/status/518821243320287232 %}
