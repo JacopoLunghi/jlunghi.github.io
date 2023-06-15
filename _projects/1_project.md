@@ -65,6 +65,8 @@ However, it has also made clear the extent to which agriculture and livestock ar
 
 <strong>Final Meeting <strong>
 
-Follow the presentation of our research outcomes:
-
 {% twitter https://twitter.com/CmccClimate/status/1663169305175810048 %}
+
+<strong> Video summary <strong>
+
+<a href="https://www.youtube.com/watch?v=GnoRWVq91rc">{% include figure.html path="assets/img/inhale/youtubecover.png" title="Legambiente Video Coverage" class="img-fluid rounded z-depth-1" %}
