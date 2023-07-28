@@ -74,6 +74,21 @@ However, it has also made clear the extent to which agriculture and livestock ar
 </div>
 
 ---
-Final Meeting 
+Final Meeting
 
 {% twitter https://twitter.com/CmccClimate/status/1663169305175810048 %}
+
+---
+News Coverage
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href="https://www.cmcc.it/projects/inhale-impact-on-human-health-of-agriculture-and-livestock-emissions">{% include figure.html path="assets/img/inhale/Logo-Gazzetta-Mi.png" title="example image" class="img-fluid rounded z-depth-1" %}</a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://green.unibocconi.eu/research/research-areas/environment-and-climate-change/inhale">{% include figure.html path="assets/img/inhale/gdb.png" title="example image" class="img-fluid rounded z-depth-1" %}</a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://www.legambientelombardia.it/inhale-impatto-delle-emissioni-di-agricoltura-e-allevamenti-intensivi-sulla-salute-umana/">{% include figure.html path="assets/img/inhale/logo-greenreport2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}</a>
+    </div>
+</div>
