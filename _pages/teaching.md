@@ -8,6 +8,9 @@ nav_order: 3
 ---
 
 ### Office Hours
+To schedule an appointment, click on the button below and choose your own preferred available time slot.
+
+
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
@@ -17,7 +20,7 @@ nav_order: 3
   window.addEventListener('load', function() {
     calendar.schedulingButton.load({
       url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2DdnOojU8vhqxk_Wg0h7x1CdJv3iidXQqHzLcDp7rz7JsKXqZFl2DXdGZ_34nPmqP4jHX3Tich?gv=true',
-      color: '#F4511E',
+      color: '#3F51B5',
       label: 'Book an appointment',
       target,
     });
@@ -26,7 +29,8 @@ nav_order: 3
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
 
-
+###
+---
 
 ### Pre-doctoral Teaching
 ---
