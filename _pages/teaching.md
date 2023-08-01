@@ -10,6 +10,7 @@ nav_order: 3
 ### Office Hours
 To schedule an appointment, click on the button below and choose your own preferred available time slot.
 
+</br>
 
 <!-- Google Calendar Appointment Scheduling begin -->
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
