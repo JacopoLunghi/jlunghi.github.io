@@ -7,6 +7,24 @@ nav: true
 nav_order: 3
 ---
 
+### Office Hours
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2DdnOojU8vhqxk_Wg0h7x1CdJv3iidXQqHzLcDp7rz7JsKXqZFl2DXdGZ_34nPmqP4jHX3Tich?gv=true',
+      color: '#F4511E',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
 
 
 
@@ -23,7 +41,7 @@ nav_order: 3
 ---
 
 
-<strong>Economics Module I (Microeconomics)</strong> ([Fall 2020-Spring 2022)](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30065&anno=2021&ric_cdl=TR01&IdPag=6351)
+<strong>Economics Module I (Microeconomics)</strong> ([Fall 2020-Spring 2024)](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30065&anno=2021&ric_cdl=TR01&IdPag=6351)
 - Role: In-class teaching activities
 - Bocconi University (30065)
 - Evaluations: [(2020-21)](https://jacopolunghi.github.io\assets\pdf\teaching\bocconi\2021-2022_30065_79335_4_ISem.pdf) [(2021-22)](https://jacopolunghi.github.io\assets\pdf\teaching\bocconi\2021-2022_30065_79335_4_ISem.pdf)
