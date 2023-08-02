@@ -29,7 +29,7 @@ To schedule an appointment, click on the button below and choose your own prefer
 </script>
 <!-- end Google Calendar Appointment Scheduling -->
 
-###
+---
 
 
 ### Pre-doctoral Teaching
