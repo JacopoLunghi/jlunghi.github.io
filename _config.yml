@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Jacopo Lunghi # the website title (if blank, full name will be used instead)
 first_name: Jacopo
 middle_name:
 last_name: Lunghi
@@ -226,6 +226,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-toc
+  - jekyll-seo-tag
   - jekyll-twitter-plugin
   - jemoji
 
