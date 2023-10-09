@@ -7,29 +7,49 @@ nav: true
 nav_order: 3
 ---
 
-<div class="caption" style="font-size:28px">
+<div class="caption" style="font-size:38px;">
      <strong>Office Hours</strong>
 </div>
 
 
 <!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2DdnOojU8vhqxk_Wg0h7x1CdJv3iidXQqHzLcDp7rz7JsKXqZFl2DXdGZ_34nPmqP4jHX3Tich?gv=true',
-      color: '#3F51B5',
-      label: 'Book an appointment',
-      padding: 20px;
-      target,
-    });
-    text-align: center;
-  });
-})();
-</script>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+  <style>
+    /* Center-align the scheduling button container */
+    .center-align {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh; /* Adjust the height as needed */
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Center-align container for the button -->
+  <div class="center-align">
+    <!-- Your existing script -->
+    <script>
+      (function() {
+        var target = document.currentScript;
+        window.addEventListener('load', function() {
+          calendar.schedulingButton.load({
+            url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2DdnOojU8vhqxk_Wg0h7x1CdJv3iidXQqHzLcDp7rz7JsKXqZFl2DXdGZ_34nPmqP4jHX3Tich?gv=true',
+            color: '#3F51B5',
+            label: 'Book an appointment',
+            target,
+          });
+        });
+      })();
+    </script>
+  </div>
+
+</body>
+</html>
 <!-- end Google Calendar Appointment Scheduling -->
 To schedule an appointment, click on the button below and choose your own preferred available time slot.
 
