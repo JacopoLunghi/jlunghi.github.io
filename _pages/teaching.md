@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-<div class="caption" font-size: 20px>
+<div class="caption" style="font-size:20px">
      <strong>Office Hours</strong>
 </div>
 To schedule an appointment, click on the button below and choose your own preferred available time slot.
