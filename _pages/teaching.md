@@ -23,6 +23,7 @@ nav_order: 3
       url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ2DdnOojU8vhqxk_Wg0h7x1CdJv3iidXQqHzLcDp7rz7JsKXqZFl2DXdGZ_34nPmqP4jHX3Tich?gv=true',
       color: '#3F51B5',
       label: 'Book an appointment',
+      padding: 20px;
       target,
     });
     text-align: center;
