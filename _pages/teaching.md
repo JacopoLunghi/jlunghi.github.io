@@ -12,7 +12,7 @@ To schedule an appointment, click on the button below and choose your own prefer
 
 
 <!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet" style="text-align:center">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
 <script>
 (function() {
