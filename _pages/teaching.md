@@ -7,12 +7,14 @@ nav: true
 nav_order: 3
 ---
 
-### Office Hours
+<div class="caption" font-size: 20px>
+     <strong>Office Hours</strong>
+</div>
 To schedule an appointment, click on the button below and choose your own preferred available time slot.
 
 
 <!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet" style="text-align:center">
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
 <script>
 (function() {
