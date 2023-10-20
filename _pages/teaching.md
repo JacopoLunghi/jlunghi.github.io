@@ -49,6 +49,6 @@ To schedule an appointment, click on the button below and choose your own prefer
 - Role: In-class teaching activities
 - Bocconi University (30066)
 
-<strong>Empirical Methods for Economics (Intro to Econometrics)<strong> ([Fall 2023-Spring 2024)](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30284&anno=2023&IdPag=6936)
+<strong>Empirical Methods for Economics (Intro to Econometrics) </strong> ([Fall 2023-Spring 2024)](https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30284&anno=2023&IdPag=6936)
 - Role: Office hours, grading
 - Bocconi University (30284)
