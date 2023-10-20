@@ -5,7 +5,6 @@
       institution: Bocconi University, Milan, Italy
       year: 2019-Present
       description:
-        - Fulfilled 4th year graduation requirements.
         - GPA (MRes) - 3.6/4.
     - title: MSc in Applied Economic Analysis
       institution: Stockholm School of Economics, Stockholm, Sweden
@@ -13,7 +12,7 @@
       description:
         - GPA - 4.92/5.
     - title: BSc in Economics of International Markets
-      institution: University of Pavia
+      institution: University of Pavia, Italy
       year: 2014-17
       description:
         - GPA - 29.89/30.
@@ -50,6 +49,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Bocconi Junior Researchers' Grants (Fondazione Invernizzi)
     - year: 2021
       items:
         - INHALE project research grant
