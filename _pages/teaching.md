@@ -6,6 +6,15 @@ description:
 nav: true
 nav_order: 3
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V4SJYKK7D6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V4SJYKK7D6');
+</script>
 
 <!-- div class="caption" style="font-size:32px;">
      <strong>Office Hours</strong>
