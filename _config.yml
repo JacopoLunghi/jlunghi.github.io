@@ -16,7 +16,7 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: escher.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://jacopolunghi.com # the base hostname & protocol for your site
+url: https://jacopolunghi.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -110,7 +110,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-V4SJYKK7D6 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  hUtcq7fMUie8BXl7YhrSbD5YBdUhHKr0feX-h4l4ZH8 # your google-site-verification ID (Google Search Console)

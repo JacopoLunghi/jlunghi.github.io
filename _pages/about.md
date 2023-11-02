@@ -16,6 +16,16 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-V4SJYKK7D6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-V4SJYKK7D6');
+</script>
+
 I am a Ph.D. candidate in Economics at Bocconi University, and a Visting Researcher at RFF-CMCC European Institute on Economics and the Environment.
 
 I hold a M.Sc. in Applied Economic Analysis from Stockholm School of Economics. Last year, I have been a Visiting Graduate at University of California San Diego.
