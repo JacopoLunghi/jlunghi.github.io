@@ -68,7 +68,7 @@ However, it has also made clear the extent to which agriculture and livestock ar
      Video summary
 </div>
 
-{% youtube GnoRWVq91rc %}
+{% youtube http://youtu.be/GnoRWVq91rc %}
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
