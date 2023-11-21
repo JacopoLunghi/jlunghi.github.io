@@ -64,9 +64,11 @@ However, it has also made clear the extent to which agriculture and livestock ar
 ---
 
 
-<div class="caption">
+<div class="caption" >
      Video summary
 </div>
+{% include youtubePlayer.html id=page.GnoRWVq91rc %}
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <a href="https://www.youtube.com/watch?v=GnoRWVq91rc">{% include figure.html path="assets/img/inhale/youtubecover.png" title="Legambiente Video Coverage" class="img-fluid rounded z-depth-1" %}</a>
