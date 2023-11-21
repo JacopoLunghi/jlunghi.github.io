@@ -74,7 +74,7 @@ However, it has also made clear the extent to which agriculture and livestock ar
      Final meeting
 </div>
 
-{% twitter https://twitter.com/CmccClimate/status/1663169305175810048 %}
+<center> {% twitter https://twitter.com/CmccClimate/status/1663169305175810048 %} </center>
 
 ---
 News Coverage
