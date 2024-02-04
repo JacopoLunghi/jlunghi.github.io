@@ -16,7 +16,7 @@ nav_order: 3
 </div>
 
 <p align="center">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSctlS5CZR4mXWe4JWunbEPQ7lp86I48egmJ6s6RtOZ43TEvuw/viewform?usp=sf_link" target="_blank"><img src="assets/img/vis_comp1.png" width=150></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSctlS5CZR4mXWe4JWunbEPQ7lp86I48egmJ6s6RtOZ43TEvuw/viewform?usp=sf_link" target="_blank"><img src="assets/img/vis_comp.jpg" width=150></a>
 </p>
 
 
