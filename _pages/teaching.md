@@ -10,13 +10,15 @@ nav_order: 3
 ---
 ### Visione compiti (Papershow)
 
+<img src="{{ site.baseurl }}{{ include.path }}" alt="{{ include.title }}" width="200" height="100" />
+
 
 <div class="caption">
     Prenota la visione compiti (reserve a papershow slot)
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="https://www.fondazionecariplo.it/it/index.html">{% include figure.html path="assets/img/vis_comp.jpg" title="example image" class="img-fluid" style="width: 200px; height: 150px;" %}</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSctlS5CZR4mXWe4JWunbEPQ7lp86I48egmJ6s6RtOZ43TEvuw/viewform?usp=sf_link">{% include figure.html path="assets/img/vis_comp.jpg" title="example image" class="img-fluid" style="width: 200px; height: 150px;" %}</a>
     </div>
 </div>
 
