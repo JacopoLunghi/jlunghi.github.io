@@ -10,9 +10,6 @@ nav_order: 3
 ---
 ### Visione compiti (Papershow)
 
-<div class="caption">
-    Prenotazione visione compiti (papershow slot reservation)
-</div>
 
 
 
