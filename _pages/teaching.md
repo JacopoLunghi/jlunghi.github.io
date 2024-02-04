@@ -11,8 +11,6 @@ nav_order: 3
 ### Visione compiti (Papershow)
 
 
-
-
 ---
 
 
