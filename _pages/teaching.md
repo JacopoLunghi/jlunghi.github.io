@@ -16,7 +16,7 @@ nav_order: 3
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <a href="https://www.fondazionecariplo.it/it/index.html">{% include figure.html path="assets/img/vis_comp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}</a>
+        <a href="https://www.fondazionecariplo.it/it/index.html">{% include figure.html path="assets/img/vis_comp.jpg" title="example image" class="img-fluid" style="width: 200px; height: 150px;" %}</a>
     </div>
 </div>
 
