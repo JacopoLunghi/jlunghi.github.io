@@ -14,10 +14,11 @@ nav_order: 3
 <div class="caption">
     Prenota la visione compiti (reserve a papershow slot)
 </div>
-
-<p align="center">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSctlS5CZR4mXWe4JWunbEPQ7lp86I48egmJ6s6RtOZ43TEvuw/viewform?usp=sf_link" target="_blank"><img src="assets/img/vis_comp.jpg" width=150></a>
-</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSctlS5CZR4mXWe4JWunbEPQ7lp86I48egmJ6s6RtOZ43TEvuw/viewform?usp=sf_link">{% include figure.html path="assets/img/vis_comp1.png" title="example image" class="img-fluid" width="33%" %}</a>
+    </div>
+</div>
 
 
 
