@@ -7,11 +7,6 @@ nav: true
 nav_order: 3
 ---
 
----
-### Visione compiti (Papershow)
-
-
----
 
 
 <!-- Google tag (gtag.js) -->
@@ -28,6 +23,12 @@ nav_order: 3
      <strong>Office Hours</strong>
 </div>
 
+
+---
+### Visione compiti (Papershow)
+
+
+---
 
 <!-- Google Calendar Appointment Scheduling begin -->
 <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2DdnOojU8vhqxk_Wg0h7x1CdJv3iidXQqHzLcDp7rz7JsKXqZFl2DXdGZ_34nPmqP4jHX3Tich?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
