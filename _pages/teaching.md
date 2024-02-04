@@ -7,6 +7,18 @@ nav: true
 nav_order: 3
 ---
 
+---
+### Visione compiti (Papershow)
+
+
+<div class="caption">
+    Prenota la visione compiti (reserve a papershow slot)
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="https://www.fondazionecariplo.it/it/index.html">{% include figure.html path="assets/img/vis_comp.jpg" title="example image" class="img-fluid rounded z-depth-1" %}</a>
+    </div>
+</div>
 
 
 <!-- Google tag (gtag.js) -->
@@ -24,11 +36,9 @@ nav_order: 3
 </div>
 
 
----
-### Visione compiti (Papershow)
 
 
----
+
 
 <!-- Google Calendar Appointment Scheduling begin -->
 <iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2DdnOojU8vhqxk_Wg0h7x1CdJv3iidXQqHzLcDp7rz7JsKXqZFl2DXdGZ_34nPmqP4jHX3Tich?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
