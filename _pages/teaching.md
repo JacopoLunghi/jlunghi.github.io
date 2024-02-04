@@ -10,8 +10,6 @@ nav_order: 3
 ---
 ### Visione compiti (Papershow)
 
-<img src="{{ site.baseurl }}{{ include.path }}" alt="{{ include.title }}" width="200" height="100" />
-
 
 <div class="caption">
     Prenota la visione compiti (reserve a papershow slot)
