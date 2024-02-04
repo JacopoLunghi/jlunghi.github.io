@@ -16,6 +16,8 @@ nav_order: 3
     </div>
 </div>
 
+<strong> Data e ora:  </strong> TBA
+
 <strong> Aula visione compiti:  </strong> TBA
 
 
