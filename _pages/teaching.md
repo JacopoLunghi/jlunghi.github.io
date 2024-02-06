@@ -16,9 +16,9 @@ nav_order: 3
     </div>
 </div>
 
-<strong> Data e ora:  </strong> TBA
+<strong> Data e ora:  </strong> 12/02/2024 - Dalle ore 18:00
 
-<strong> Aula visione compiti:  </strong> TBA
+<strong> Aula visione compiti:  </strong> 5-E4-SR03 (Edificio Rontgen, quinto piano)
 
 
 ---
