@@ -5,6 +5,7 @@ description: Impact on humaN Health of Agriculture and Livestock Emissions
 img: assets/img/inhale/inhale_log.jpeg
 importance: 1
 category: Research
+instagramId: C2o9IOACtKC
 ---
 
 Air pollution remains Europe's top environmental threat to health, as recently reminded by the European Environmental Agency. Italy is the second EU country for premature deaths from air pollution (PM2.5), with the highest concentration in the affluent and highly populated Po valley. The COVID-19 pandemic has made air pollution more salient, by raising awareness of its devastating effects and amplification of concurrent diseases, including viral ones.
@@ -97,4 +98,4 @@ News Coverage
     </div>
 </div>
 
-{% include instagramPlayer.html id=C2o9IOACtKC %}
+<center> {% include instagramPlayer.html id=page.instagramId %} </center>
