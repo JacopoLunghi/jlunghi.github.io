@@ -90,3 +90,9 @@ News Coverage
         <a href="https://www.legambientelombardia.it/inhale-impatto-delle-emissioni-di-agricoltura-e-allevamenti-intensivi-sulla-salute-umana/">{% include figure.html path="assets/img/inhale/logo-greenreport2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}</a>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <a href="https://www.raiplay.it/video/2024/01/Report---Puntata-del-28012024-71188538-16ca-4d7b-bfed-53e33263ac77.html">{% include figure.html path="assets/img/inhale/report_thumb.png" title="example image" class="img-fluid rounded z-depth-1" width="35%" %}</a>
+    </div>
+</div>
