@@ -96,3 +96,5 @@ News Coverage
         <a href="https://www.raiplay.it/video/2024/01/Report---Puntata-del-28012024-71188538-16ca-4d7b-bfed-53e33263ac77.html">{% include figure.html path="assets/img/inhale/report_thumb.png" title="example image" class="img-fluid rounded z-depth-1" width="35%" %}</a>
     </div>
 </div>
+
+{% include instagramPlayer.html id=page.C2o9IOACtKC %}
