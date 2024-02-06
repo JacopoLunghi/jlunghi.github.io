@@ -97,4 +97,4 @@ News Coverage
     </div>
 </div>
 
-{% include instagramPlayer.html id=page.C2o9IOACtKC %}
+{% include instagramPlayer.html id=C2o9IOACtKC %}
