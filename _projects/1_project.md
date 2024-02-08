@@ -63,17 +63,14 @@ However, it has also made clear the extent to which agriculture and livestock ar
 
 ### Project output
 ---
-Summary
+## Summary
 
 
 {% youtube GnoRWVq91rc %}
 
-<div class="caption" >
-     Final meeting
-</div>
 
 ---
-Coverage
+## Coverage
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
