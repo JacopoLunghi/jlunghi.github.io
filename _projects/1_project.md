@@ -63,11 +63,8 @@ However, it has also made clear the extent to which agriculture and livestock ar
 
 ### Project output
 ---
+Summary
 
-
-<div class="caption" >
-     Video summary
-</div>
 
 {% youtube GnoRWVq91rc %}
 
@@ -75,10 +72,8 @@ However, it has also made clear the extent to which agriculture and livestock ar
      Final meeting
 </div>
 
-<center> {% twitter https://twitter.com/CmccClimate/status/1663169305175810048 %} </center>
-
 ---
-News Coverage
+Coverage
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -94,8 +89,10 @@ News Coverage
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-        <a href="https://www.raiplay.it/video/2024/01/Report---Puntata-del-28012024-71188538-16ca-4d7b-bfed-53e33263ac77.html">{% include figure.html path="assets/img/inhale/report_thumb.png" title="example image" class="img-fluid rounded z-depth-1" width="35%" %}</a>
+        <a href="https://www.raiplay.it/video/2024/01/Report---Puntata-del-28012024-71188538-16ca-4d7b-bfed-53e33263ac77.html">{% include figure.html path="assets/img/inhale/report_thumb.png" title="example image" class="img-fluid rounded z-depth-1" width="50%" style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);" %}</a>
     </div>
 </div>
+
+<center> {% twitter https://twitter.com/CmccClimate/status/1663169305175810048 %} </center>
 
 <center> {% include instagramPlayer.html id=page.instagramId %} </center>
