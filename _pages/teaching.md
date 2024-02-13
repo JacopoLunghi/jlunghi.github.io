@@ -7,19 +7,6 @@ nav: true
 nav_order: 3
 ---
 
----
-### Prenotazione visione compiti
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSctlS5CZR4mXWe4JWunbEPQ7lp86I48egmJ6s6RtOZ43TEvuw/viewform?usp=sf_link">{% include figure.html path="assets/img/vis_comp2.png" title="example image" class="img-fluid" width="33%" %}</a>
-    </div>
-</div>
-
-<strong> Data e ora:  </strong> 12/02/2024 - Dalle ore 18:00
-
-<strong> Aula visione compiti:  </strong> 5-E4-SR03 (Edificio Rontgen, quinto piano)
-
 
 ---
 ### Booking Office Hours
