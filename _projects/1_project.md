@@ -4,7 +4,7 @@ title: INHALE
 description: Impact on humaN Health of Agriculture and Livestock Emissions
 img: assets/img/inhale/inhale_log.jpeg
 importance: 1
-category: Research
+category: Air Quality
 instagramId: C2o9IOACtKC
 ---
 
