@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 5
-display_categories: [Research]
+display_categories: [Air Quality]
 horizontal: false
 ---
 <!-- Google tag (gtag.js) -->
