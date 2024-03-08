@@ -5,7 +5,7 @@ title: CV
 description: Full version available in PDF
 nav: true
 nav_order: 2
-cv_pdf: CV_Academic_Plain.pdf
+cv_pdf: CV_Academic_Plain_JL.pdf
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V4SJYKK7D6"></script>
