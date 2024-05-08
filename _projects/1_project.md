@@ -93,3 +93,8 @@ However, it has also made clear the extent to which agriculture and livestock ar
 <center> {% twitter https://twitter.com/CmccClimate/status/1663169305175810048 %} </center>
 
 <center> {% include instagramPlayer.html id=page.instagramId %} </center>
+
+### Academic Publications
+- Lunghi, J., Malpede, M., & Reis, L. A. (2024). Exploring the impact of livestock on air quality: A deep dive into Ammonia and particulate matter in Lombardy. *Environmental Impact Assessment Review*, 105, 107456. [https://doi.org/10.1016/j.eiar.2024.107456](https://doi.org/10.1016/j.eiar.2024.107456)
+
+- Granella, F., Renna, S., & Reis, L. A. (2024). The formation of secondary inorganic aerosols: A data-driven investigation of Lombardy's secondary inorganic aerosol problem. *Atmospheric Environment*, 327, 120480.[https://doi.org/10.1016/j.atmosenv.2024.120480](https://doi.org/10.1016/j.atmosenv.2024.120480)
