@@ -37,9 +37,12 @@ My research interests include environmental economics, health economics, climate
 Currently based in Milan.
 
 ---
-#### Next events
+#### Summmer conferences
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <a href="https://whova.com/embedded/event/79bkBf2rOEfoQaD1xVFV5TVPBNUE4SFitFLgZTtN7pM%3D/?utc_source=ems">{% include figure.html path="assets/img/aere_present.png" title="example image" class="img-fluid rounded z-depth-1" %}</a>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <a href="http://www.eaere-conferences.org/index.php?p=396">{% include figure.html path="assets/img/eaere_logo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}</a>
     </div>
 </div>
