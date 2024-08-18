@@ -26,12 +26,14 @@ social: true  # includes social icons at the bottom of the page
   gtag('config', 'G-V4SJYKK7D6');
 </script>
 
-I am a Ph.D. candidate in Economics at Bocconi University, and a Visting Researcher at RFF-CMCC European Institute on Economics and the Environment.
+*Welcome to my wepage!*
 
-I hold a M.Sc. in Applied Economic Analysis from Stockholm School of Economics. Last year, I have been a Visiting Graduate at University of California San Diego.
+I am a Post Doc at the CMCC European Institute on Economics and the Environment. I hold a Ph.D. in Economics at Bocconi University, and a M.Sc. in Applied Economic Analysis from Stockholm School of Economics.
 
 My research interests include environmental economics, health economics, climate change, economic development, and migration studies.
 
-
-
 Currently based in Milan.
+
+<google-map fit-to-markers api-key="AIzaSyD3E1D9b-Z7ekrT3tbhl_dy8DCXuIuDDRc">
+  <google-map-marker latitude="37.78" longitude="-122.4" draggable="true"></google-map-marker>
+</google-map>
