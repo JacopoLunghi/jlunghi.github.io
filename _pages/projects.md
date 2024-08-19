@@ -5,7 +5,7 @@ permalink: /projects/
 description:
 nav: true
 nav_order: 5
-display_categories: [Air Quality]
+display_categories: [Air Quality, Work-Life Balance]
 horizontal: false
 ---
 <!-- Google tag (gtag.js) -->
