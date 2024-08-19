@@ -26,7 +26,7 @@ social: true  # includes social icons at the bottom of the page
   gtag('config', 'G-V4SJYKK7D6');
 </script>
 
-*Welcome to my wepage!*
+*Welcome to my webpage!*
 
 I am a Post Doc at the CMCC European Institute on Economics and the Environment. I hold a Ph.D. in Economics at Bocconi University, and a M.Sc. in Applied Economic Analysis from Stockholm School of Economics.
 
