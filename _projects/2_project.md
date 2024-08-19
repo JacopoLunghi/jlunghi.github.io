@@ -9,5 +9,4 @@ instagramId:
 ---
 Testing
 
-{% include assets/html/surfmap.html %}
-<iframe src="assets/html/surfmap.html" height="500" width="500"></iframe>
+<iframe src="https://lively-starburst-f9b7f1.netlify.app/" height="500" width="500"></iframe>
