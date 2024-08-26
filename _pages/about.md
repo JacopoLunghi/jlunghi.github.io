@@ -32,6 +32,6 @@ I am a Post Doc at the CMCC European Institute on Economics and the Environment.
 
 My research interests include environmental economics, health economics, climate change, economic development, and migration studies.
 
-Currently based in Milan.
+I am currently based in Milan. On a regular week, I will be working from home on Mondays and Wednesdays. Find my schedule below:
 
-<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&ctz=Europe%2FRome&bgcolor=%23ffffff&showTz=0&showCalendars=0&showTabs=0&showPrint=0&showDate=0&showTitle=0&src=YmQ4OTY2ZjRkZDhhN2I2MjI1Y2JkYWMyNzlkOGIyMjdiYmEyZjcwMThlMmZkYmUyZjQwMGMwMmU5MDc3YjBkM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MGRlOGNiMjU4ZTQwMzMzZTI0OWU1MmViMDNiODUzYjc2ZGRlODcyYzkwZTQwN2IwNDM1NDk4NTQ1YTUzZTA5MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&color=%233F51B5" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&ctz=Europe%2FRome&bgcolor=%23ffffff&showTz=0&showCalendars=0&showTabs=0&showPrint=0&showDate=0&showTitle=0&src=MDMyMDZlNTQxYzMzZTc4ZTkzMWI0ZGZhZTFjNDcwNDc2YWFjN2Q4NTIzNDg3NjdjOWUyMzdkMzg3OWMxMWMzM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=YmQ4OTY2ZjRkZDhhN2I2MjI1Y2JkYWMyNzlkOGIyMjdiYmEyZjcwMThlMmZkYmUyZjQwMGMwMmU5MDc3YjBkM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MGRlOGNiMjU4ZTQwMzMzZTI0OWU1MmViMDNiODUzYjc2ZGRlODcyYzkwZTQwN2IwNDM1NDk4NTQ1YTUzZTA5MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Mzc3OThiZDYzMjA1YTVhOWRkYzViMjA1ZGRkZDIzOGE0YTkxNDkwZTBkNmJjZGRiM2JiY2I5ZjZhYTBlYWMzZkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&color=%230caec2&color=%238E24AA&color=%23E67C73" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
