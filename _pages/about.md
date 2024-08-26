@@ -34,6 +34,4 @@ My research interests include environmental economics, health economics, climate
 
 Currently based in Milan.
 
-<google-map fit-to-markers api-key="AIzaSyD3E1D9b-Z7ekrT3tbhl_dy8DCXuIuDDRc">
-  <google-map-marker latitude="37.78" longitude="-122.4" draggable="true"></google-map-marker>
-</google-map>
+<iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=2&ctz=Europe%2FRome&bgcolor=%23ffffff&showTz=0&showCalendars=0&showTabs=0&showPrint=0&showDate=0&showTitle=0&src=YmQ4OTY2ZjRkZDhhN2I2MjI1Y2JkYWMyNzlkOGIyMjdiYmEyZjcwMThlMmZkYmUyZjQwMGMwMmU5MDc3YjBkM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=MGRlOGNiMjU4ZTQwMzMzZTI0OWU1MmViMDNiODUzYjc2ZGRlODcyYzkwZTQwN2IwNDM1NDk4NTQ1YTUzZTA5MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F6BF26&color=%233F51B5" style="border-width:0" width="800" height="400" frameborder="0" scrolling="no"></iframe>
