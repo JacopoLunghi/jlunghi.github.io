@@ -86,6 +86,11 @@ However, it has also made clear the extent to which agriculture and livestock ar
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
+        <a href="https://altreconomia.it/ecco-perche-il-successo-del-grana-padano-e-un-problema-sanitario/">{% include figure.html path="assets/img/inhale/ae.png" title="example image" class="img-fluid rounded z-depth-1" width="50%" style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);" %}</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         <a href="https://www.raiplay.it/video/2024/01/Report---Puntata-del-28012024-71188538-16ca-4d7b-bfed-53e33263ac77.html">{% include figure.html path="assets/img/inhale/report_thumb.png" title="example image" class="img-fluid rounded z-depth-1" width="50%" style="box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);" %}</a>
     </div>
 </div>
@@ -96,5 +101,7 @@ However, it has also made clear the extent to which agriculture and livestock ar
 
 ### Academic Publications
 - Lunghi, J., Malpede, M., & Reis, L. A. (2024). Exploring the impact of livestock on air quality: A deep dive into Ammonia and particulate matter in Lombardy. *Environmental Impact Assessment Review*, 105, 107456. [https://doi.org/10.1016/j.eiar.2024.107456](https://doi.org/10.1016/j.eiar.2024.107456)
+
+- Renna, S., Lunghi, J., Granella, F., Malpede, M., & Di Simine, D. (2024). Impacts of agriculture on PM10 pollution and human health in the Lombardy region in Italy. *Frontiers in Environmental Science*, 12, 1369678. [https://doi.org/10.3389/fenvs.2024.1369678](https://doi.org/10.3389/fenvs.2024.1369678)
 
 - Granella, F., Renna, S., & Reis, L. A. (2024). The formation of secondary inorganic aerosols: A data-driven investigation of Lombardy's secondary inorganic aerosol problem. *Atmospheric Environment*, 327, 120480.[https://doi.org/10.1016/j.atmosenv.2024.120480](https://doi.org/10.1016/j.atmosenv.2024.120480)
