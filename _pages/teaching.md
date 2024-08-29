@@ -10,6 +10,14 @@ nav_order: 3
 
 ---
 ### Booking Office Hours
+
+Book office hours at the link below. When booking a slot, please specify your preference between online and in-person meeting. If the slot is available, the booking is automatically confirmed, I will reach out to you in case I am not able to meet. Upon availability and if necessary, you can to book more than one slot.
+If there are no more slots available but you are in urgent need for clarifications, please reach out by e-mail.
+
+My office: 5-e2-06 (Rontgen 1 building)
+
+In case you want to meet online: [https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTY4NjZhMmMtNWVmOC00ZmE4LWExNzEtYmI2MjVmNWQ1ZmVk%40thread.v2/0?context=%7b%22Tid%22%3a%226bf3b57a-9fb4-47c2-9ada-51156518f52f%22%2c%22Oid%22%3a%22ee5dd981-717e-454e-8f18-99856c435a11%22%7d](Teams Virtual Room)
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V4SJYKK7D6"></script>
 <script>
