@@ -16,7 +16,7 @@ If there are no more slots available but you are in urgent need for clarificatio
 
 My office: 5-e2-06 (Rontgen 1 building)
 
-In case you want to meet online: [https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTY4NjZhMmMtNWVmOC00ZmE4LWExNzEtYmI2MjVmNWQ1ZmVk%40thread.v2/0?context=%7b%22Tid%22%3a%226bf3b57a-9fb4-47c2-9ada-51156518f52f%22%2c%22Oid%22%3a%22ee5dd981-717e-454e-8f18-99856c435a11%22%7d](Teams Virtual Room)
+In case you want to meet online: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTY4NjZhMmMtNWVmOC00ZmE4LWExNzEtYmI2MjVmNWQ1ZmVk%40thread.v2/0?context=%7b%22Tid%22%3a%226bf3b57a-9fb4-47c2-9ada-51156518f52f%22%2c%22Oid%22%3a%22ee5dd981-717e-454e-8f18-99856c435a11%22%7d)
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V4SJYKK7D6"></script>
