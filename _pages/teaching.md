@@ -38,7 +38,7 @@ In case you want to meet online: [Teams Virtual Room](https://teams.microsoft.co
 
 
 <!-- Google Calendar Appointment Scheduling begin -->
-<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2DdnOojU8vhqxk_Wg0h7x1CdJv3iidXQqHzLcDp7rz7JsKXqZFl2DXdGZ_34nPmqP4jHX3Tich?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ2DdnOojU8vhqxk_Wg0h7x1CdJv3iidXQqHzLcDp7rz7JsKXqZFl2DXdGZ_34nPmqP4jHX3Tich?gv=true" style="border: 1" width="100%" height="600" frameborder="1"></iframe>
 <!-- end Google Calendar Appointment Scheduling -->
 
 
