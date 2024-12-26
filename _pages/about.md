@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='https://didattica.unibocconi.it/docenti/cv.php?rif=236473'>Bocconi University - Department of Economics</a>.
+subtitle: <a href='https://www.eiee.org/member/jacopo-lunghi/'>RFF-CMCC European Institute on Economics and the Environment</a>.
 
 profile:
   align: right
@@ -28,7 +29,7 @@ social: true  # includes social icons at the bottom of the page
 
 *Welcome to my webpage!*
 
-I am a Post Doc at the CMCC European Institute on Economics and the Environment. I hold a Ph.D. in Economics at Bocconi University, and a M.Sc. in Applied Economic Analysis from Stockholm School of Economics.
+I am a Post Doc at the CMCC European Institute on Economics and the Environment, and a teaching assistant at Bocconi University Milan. I hold a Ph.D. in Economics at Bocconi University, and a M.Sc. in Applied Economic Analysis from Stockholm School of Economics.
 
 My research interests include environmental economics, health economics, climate change, economic development, and migration studies.
 

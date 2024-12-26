@@ -6,7 +6,7 @@ title: Jacopo Lunghi # the website title (if blank, full name will be used inste
 first_name: Jacopo
 middle_name:
 last_name: Lunghi
-email: jacopo.lunghi@phd.unibocconi.it
+email: jacopo.lunghi@cmcc.it
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   PhD Candidate - Bocconi University Milan
 footer_text: >
@@ -87,7 +87,7 @@ osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: https://www.eiee.org/member/jacopo-lunghi/ # work page URL
+work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
